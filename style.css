@@ -1,0 +1,33 @@
+.heading {
+    width: 100%;
+    Margin: 0px;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_1 {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px gray;
+    color: black;
+    float: none;
+}
+
+p {
+    box-shadow: 5px 5px 5px gray;
+    font-size: 24px;
+}
+
+
+#footer{
+    position: fixed;
+    background-color: gray;
+    color: white;
+    width: 100%;
+    bottom:0;
+    line-height: 3;
+    font-size: 16px;
+
+
+}
