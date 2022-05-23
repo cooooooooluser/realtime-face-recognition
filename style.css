@@ -31,3 +31,11 @@ p {
 
 
 }
+
+canvas{
+    border: 5px solid cyan;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(41, 77, 93);
+    margin-top: 200px;
+    
+}
